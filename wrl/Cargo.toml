@@ -1,0 +1,9 @@
+[package]
+name = "wrl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+byteordr = "1.5"
+scroll = "0.11"
+libc = "0.2"
